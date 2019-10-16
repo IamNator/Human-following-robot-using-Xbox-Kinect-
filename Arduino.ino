@@ -1,3 +1,8 @@
+/*By Nator Verinumbe and Solomon
+University of Ibadan
+10/October/2019
+*/
+
 const int trigPin = 7;
 const int echoPin = 8;
 
