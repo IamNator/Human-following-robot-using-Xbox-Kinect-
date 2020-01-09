@@ -1,4 +1,5 @@
 # Human-following-robot-using-Xbox-Kinect-
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 This project builds a robot that follows a human being around.
 We use an image processing software to process images from the xbox kinect 
