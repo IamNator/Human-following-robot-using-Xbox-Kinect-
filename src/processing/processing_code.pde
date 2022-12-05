@@ -1,4 +1,4 @@
-<<<<<<< HEAD
+
 /*By Nator Verinumbe and Solomon
 University of Ibadan, Oyo state, Nigeria.
 05/October/2019
@@ -256,4 +256,4 @@ fill(255,0,0);
                 myPort.write (z);
         }
 }
->>>>>>> updates
+
